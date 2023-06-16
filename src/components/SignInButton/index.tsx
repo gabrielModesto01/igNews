@@ -1,4 +1,4 @@
-import { FaGithub} from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
 import { FiX } from 'react-icons/fi'
 import { signIn, signOut, useSession } from 'next-auth/react'
 

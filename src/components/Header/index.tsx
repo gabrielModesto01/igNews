@@ -1,5 +1,5 @@
 import { SignInButton } from '../SignInButton';
-import styles from './styles.module.scss';
+import styles from './styles.module.scss';  
 
 export function Header() {
     return (
@@ -14,4 +14,4 @@ export function Header() {
             </div>
         </header>
     );
-}
+}   
